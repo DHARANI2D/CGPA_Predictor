@@ -76,7 +76,7 @@ def main():
         if new_cgpa < target_cgpa:
             st.info("Your capabilities are low estimated,So your Modified Target CGPA: {target_cgpa:.2f}")
     
-    st.write("<p style='text-align: center;'>Created with a passion by 2D🤓</p>", unsafe_allow_html=True)
+    st.write("<p style='text-align: center;'>Crafted with fervor by 2D🤓</p>", unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()
