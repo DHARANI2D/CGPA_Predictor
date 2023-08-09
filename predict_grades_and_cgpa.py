@@ -18,7 +18,7 @@ def calculate_adjusted_grade(difficulty, target_cgpa):
         return grade_points["A"]
 
 def main():
-    st.title("CGPA Calculator")
+    st.title("Grades Predictor")
 
     current_cgpa = st.number_input("Current CGPA:", min_value=0.0, max_value=9.9, step=0.1)
     target_cgpa = st.number_input("Target CGPA:", min_value=8.0, max_value=9.9, step=0.1)
