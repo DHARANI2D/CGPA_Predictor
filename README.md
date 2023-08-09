@@ -4,7 +4,7 @@ This Streamlit app allows you to calculate your estimated CGPA based on your cur
 
 ## Usage
 
-1. Open the app using the following link: [https://gradepredictor2d.streamlit.app](https://gradepredictor2d.streamlit.app)
+1. Open the app using the following link: [https://gradepredictor2d.streamlit.app](https://gradepredictor.streamlit.app)
 2. Enter your current CGPA and target CGPA.
 3. Enter the number of subjects you want to calculate grades for.
 4. For each subject, provide the subject name, credits, and difficulty level.
@@ -12,7 +12,7 @@ This Streamlit app allows you to calculate your estimated CGPA based on your cur
 
 ## Deployment
 
-The app is deployed and accessible at [https://gradepredictor2d.streamlit.app](https://gradepredictor2d.streamlit.app).
+The app is deployed and accessible at [https://gradepredictor2d.streamlit.app](https://gradepredictor.streamlit.app).
 
 ## Requirements
 
