@@ -76,6 +76,10 @@ def main():
         if new_cgpa < target_cgpa:
             st.info("Your capabilities are low estimated,So your Modified Target CGPA: {target_cgpa:.2f}")
     
+    st.sidebar.title("Similar Applications")
+    st.sidebar.markdown("[CGPA Calculator](https://cgpacalculator-2d.streamlit.app/)")
+    st.sidebar.markdown("[Grades Predictor](https://gradepredictor.streamlit.app/)")
+
     st.write("<p style='text-align: center;'>Crafted with fervor by 2D🤓</p>", unsafe_allow_html=True)
 
 if __name__ == "__main__":
